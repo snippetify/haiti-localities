@@ -3,7 +3,6 @@ import districts from './data/districts.json'
 
 // Arrondissement
 class District {
-
     has (name) {
         return districts.filter(v => v.districts.map(w => w.name.toLowerCase()).includes(normalize(name))).length > 0
     }

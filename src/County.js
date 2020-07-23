@@ -3,7 +3,6 @@ import counties from './data/counties.json'
 
 // Departement
 class County {
-
     has (name) {
         return counties.map(v => v.name.toLowerCase()).includes(normalize(name))
     }

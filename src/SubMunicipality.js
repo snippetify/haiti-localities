@@ -3,7 +3,6 @@ import submunicipalities from './data/submunicipalities.json'
 
 // Section communale
 class SubMunicipality {
-
     has (name) {
         return submunicipalities.filter(v => v.submunicipalities.map(w => w.name.toLowerCase()).includes(normalize(name))).length > 0
     }

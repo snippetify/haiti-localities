@@ -3,7 +3,6 @@ import municipalities from './data/municipalities.json'
 
 // Commune
 class Municipality {
-
     has (name) {
         return municipalities.filter(v => v.municipalities.map(w => w.name.toLowerCase()).includes(normalize(name))).length > 0
     }
@@ -27,4 +26,4 @@ class Municipality {
     }
 }
 
-export default new District()
+export default new Municipality()
