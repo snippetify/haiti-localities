@@ -2,252 +2,1250 @@
     {
         "municipality": "Desdunes",
         "submunicipalities": [
-            { "name": "Desdunes", "postal_code": "HT4440" }
+            { "name": "Desdunes", "aliases": [], "postal_code": "HT4440" }
         ]
     },
     {
         "municipality": "Dessalines",
         "submunicipalities": [
-            { "name": "Villard", "postal_code": "HT0000" },
-            { "name": "Fosse Naboth OU Duvallon", "postal_code": "HT0000" },
-            { "name": "Ogé", "postal_code": "HT0000" },
-            { "name": "Poste Pierrot", "postal_code": "HT0000" },
-            { "name": "Fiéfé Petit Cahos OU", "postal_code": "HT0000" },
-            { "name": "ll Croix òû Grand-Cahos", "postal_code": "HT0000" }
+            { "name": "Villard", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fosse Naboth OU Duvallon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Ogé", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Poste Pierrot", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fiéfé Petit Cahos OU", "aliases": [], "postal_code": "HT0000" },
+            { "name": "ll Croix òû Grand Cahos", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Grande Saline",
         "submunicipalities": [
-            { "name": "Poteneau", "postal_code": "HT0000" }
+            { "name": "Poteneau", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Petite Rivière de l'Artibonite",
         "submunicipalities": [
-            { "name": "Bas Coursin I", "postal_code": "HT0000" },
-            { "name": "Bas Coursin II", "postal_code": "HT0000" },
-            { "name": "Labady", "postal_code": "HT0000" },
-            { "name": "À Roche Savane", "postal_code": "HT0000" },
-            { "name": "Pérodin", "postal_code": "HT0000" },
-            { "name": "Médor", "postal_code": "HT0000" }
+            { "name": "Bas Coursin I", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas Coursin II", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Labady", "aliases": [], "postal_code": "HT0000" },
+            { "name": "À Roche Savane", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pérodin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Médor", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Ennery",
         "submunicipalities": [
-            { "name": "Savane Carrée", "postal_code": "HT0000" },
-            { "name": "Reine Passe-Bas d'Ennery òû", "postal_code": "HT0000" },
-            { "name": "Chemin Neuf", "postal_code": "HT0000" },
-            { "name": "Puilboreau", "postal_code": "HT0000" }
+            { "name": "Savane Carrée", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Reine Passe Bas d'Ennery òû", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Chemin Neuf", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Puilboreau", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "L'Estère",
         "submunicipalities": [
-            { "name": "Croix Périsse", "postal_code": "HT0000" },
-            { "name": "Desdunes", "postal_code": "HT0000" }
+            { "name": "Croix Périsse", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Desdunes", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Gonaïves",
         "submunicipalities": [
-            { "name": "Pont Tamarin", "postal_code": "HT0000" },
-            { "name": "Bassin", "postal_code": "HT0000" },
-            { "name": "Rivière de Bayonnais", "postal_code": "HT0000" },
-            { "name": "Poteaux", "postal_code": "HT0000" },
-            { "name": "Labranle", "postal_code": "HT0000" }
+            { "name": "Pont Tamarin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bassin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rivière de Bayonnais", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Poteaux", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Labranle", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Anse-Rouge",
+        "municipality": "Anse Rouge",
         "submunicipalities": [
-            { "name": "L'Arbre", "postal_code": "HT0000" },
-            { "name": "Sources Chaudes", "postal_code": "HT0000" }
+            { "name": "L'Arbre", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Sources Chaudes", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Gros-Morne",
+        "municipality": "Gros Morne",
         "submunicipalities": [
-            { "name": "Richard Boucan", "postal_code": "HT0000" },
-            { "name": "Rivière Mancelle", "postal_code": "HT0000" },
-            { "name": "Rivière Blanche", "postal_code": "HT0000" },
-            { "name": "L'Acul", "postal_code": "HT0000" },
-            { "name": "Pendu", "postal_code": "HT0000" },
-            { "name": "Savane Carrée", "postal_code": "HT0000" },
-            { "name": "Moulin", "postal_code": "HT0000" },
-            { "name": "Ravine Gros Morne", "postal_code": "HT0000" }
+            { "name": "Richard Boucan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rivière Mancelle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rivière Blanche", "aliases": [], "postal_code": "HT0000" },
+            { "name": "L'Acul", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pendu", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Savane Carrée", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Moulin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Ravine Gros Morne", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Terre-Neuve",
+        "municipality": "Terre Neuve",
         "submunicipalities": [
-            { "name": "Doland", "postal_code": "HT0000" },
-            { "name": "Bois Neuf", "postal_code": "HT0000" },
-            { "name": "Lagon", "postal_code": "HT0000" }
+            { "name": "Doland", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois Neuf", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lagon", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Marmelade",
         "submunicipalities": [
-            { "name": "Crête-à-Pins", "postal_code": "HT0000" },
-            { "name": "Bassin OU Billier", "postal_code": "HT0000" },
-            { "name": "Platon", "postal_code": "HT0000" }
+            { "name": "Crête à Pins", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bassin OU Billier", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Platon", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Saint-Michel-de-l'Attalaye",
+        "municipality": "Saint Michel de l'Attalaye",
         "submunicipalities": [
-            { "name": "Platana", "postal_code": "HT0000" },
-            { "name": "Camathe", "postal_code": "HT0000" },
-            { "name": "Bas de Sault", "postal_code": "HT0000" },
-            { "name": "Lalomas", "postal_code": "HT0000" },
-            { "name": "L'Ermite", "postal_code": "HT0000" },
-            { "name": "Lacedras", "postal_code": "HT0000" },
-            { "name": "Marmont", "postal_code": "HT0000" },
-            { "name": "L'Attalaye", "postal_code": "HT0000" }
+            { "name": "Platana", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Camathe", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas de Sault", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lalomas", "aliases": [], "postal_code": "HT0000" },
+            { "name": "L'Ermite", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lacedras", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Marmont", "aliases": [], "postal_code": "HT0000" },
+            { "name": "L'Attalaye", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "La Chapelle",
         "submunicipalities": [
-            { "name": "Martineau", "postal_code": "HT0000" },
-            { "name": "Bossous", "postal_code": "HT0000" }
+            { "name": "Martineau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bossous", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Saint-Marc",
+        "municipality": "Saint Marc",
         "submunicipalities": [
-            { "name": "Inonder", "postal_code": "HT0000" },
-            { "name": "Bois Neuf", "postal_code": "HT0000" },
-            { "name": "Goyavier", "postal_code": "HT0000" },
-            { "name": "Lalouère", "postal_code": "HT0000" },
-            { "name": "Bocozelle", "postal_code": "HT0000" },
-            { "name": "Charrette", "postal_code": "HT0000" }
+            { "name": "Inonder", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois Neuf", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Goyavier", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lalouère", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bocozelle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Charrette", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Verrettes",
         "submunicipalities": [
-            { "name": "Liancourt", "postal_code": "HT0000" },
-            { "name": "Bélanger", "postal_code": "HT0000" },
-            { "name": "Guillaume", "postal_code": "HT0000" },
-            { "name": "Désarmes", "postal_code": "HT0000" },
-            { "name": "Bastien", "postal_code": "HT0000" },
-            { "name": "Terre Natte", "postal_code": "HT0000" }
+            { "name": "Liancourt", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bélanger", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Guillaume", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Désarmes", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bastien", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Terre Natte", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Cerca-la-Source",
+        "municipality": "Cerca la Source",
         "submunicipalities": [
-            { "name": "Brûlé Acajou", "postal_code": "HT0000" },
-            { "name": "Lamielle", "postal_code": "HT0000" }
+            { "name": "Brûlé Acajou", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lamielle", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Thomassique",
         "submunicipalities": [
-            { "name": "Matelgate", "postal_code": "HT0000" },
-            { "name": "Lociane", "postal_code": "HT0000" }
+            { "name": "Matelgate", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lociane", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Cerca-Carvajal",
+        "municipality": "Cerca Carvajal",
         "submunicipalities": [
-            { "name": "A sonné", "postal_code": "HT0000" }
+            { "name": "A sonné", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Hinche",
         "submunicipalities": [
-            { "name": "Juanaria", "postal_code": "HT0000" },
-            { "name": "Marmont", "postal_code": "HT0000" },
-            { "name": "Aguahédionde (Rive Droite)", "postal_code": "HT0000" },
-            { "name": "Aguahédionde (Rive Gauche)", "postal_code": "HT0000" }
+            { "name": "Juanaria", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Marmont", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Aguahédionde (Rive Droite)", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Aguahédionde (Rive Gauche)", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Maïssade",
         "submunicipalities": [
-            { "name": "Grande Savane", "postal_code": "HT0000" },
-            { "name": "Narang", "postal_code": "HT0000" },
-            { "name": "Hatty", "postal_code": "HT0000" }
+            { "name": "Grande Savane", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Narang", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Hatty", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Thomonde",
         "submunicipalities": [
-            { "name": "Cabral", "postal_code": "HT0000" },
-            { "name": "Terre Muscady", "postal_code": "HT0000" },
-            { "name": "Baille Tourrible", "postal_code": "HT0000" },
-            { "name": "La Hoye", "postal_code": "HT0000" }
+            { "name": "Cabral", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Terre Muscady", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Baille Tourrible", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Hoye", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Belladère",
         "submunicipalities": [
-            { "name": "Renthe Mathe", "postal_code": "HT0000" },
-            { "name": "Roye-Sec", "postal_code": "HT0000" },
-            { "name": "Riaribes", "postal_code": "HT0000" }
+            { "name": "Renthe Mathe", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Roye Sec", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Riaribes", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Lascahobas",
         "submunicipalities": [
-            { "name": "Petit Fond", "postal_code": "HT0000" },
-            { "name": "Juampas", "postal_code": "HT0000" }
+            { "name": "Petit Fond", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Juampas", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Savanette",
         "submunicipalities": [
-            { "name": "Savanette (Colombier)", "postal_code": "HT0000" },
-            { "name": "La Haye", "postal_code": "HT0000" }
+            { "name": "Savanette (Colombier)", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Haye", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Carré-Boucan",
+        "municipality": "Carré Boucan",
         "submunicipalities": [
-            { "name": "Petite Montagne", "postal_code": "HT0000" },
-            { "name": "Boucan Carré", "postal_code": "HT0000" },
-            { "name": "Bayes", "postal_code": "HT0000" }
+            { "name": "Petite Montagne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Boucan Carré", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bayes", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
         "municipality": "Mirebalais",
         "submunicipalities": [
-            { "name": "Gascogne", "postal_code": "HT0000" },
-            { "name": "Sarazin", "postal_code": "HT0000" },
-            { "name": "Grand-Boucan", "postal_code": "HT0000" },
-            { "name": "Crête Brûlée", "postal_code": "HT0000" }
+            { "name": "Gascogne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Sarazin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grand Boucan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Crête Brûlée", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Saut-d'Eau",
+        "municipality": "Saut d'Eau",
         "submunicipalities": [
-            { "name": "Rivière Canot Canot ous", "postal_code": "HT0000" },
-            { "name": "La Selle", "postal_code": "HT0000" },
-            { "name": "Coupe Mardi Gras", "postal_code": "HT0000" },
-            { "name": "Montagne Terrible", "postal_code": "HT0000" }
+            { "name": "Rivière Canot Canot ous", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Selle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Coupe Mardi Gras", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Montagne Terrible", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Anse-d'Hainault",
+        "municipality": "Anse d'Hainault",
         "submunicipalities": [
-            { "name": "Grandoit", "postal_code": "HT0000" },
-            { "name": "Boudon", "postal_code": "HT0000" },
-            { "name": "Îlet à Pierre Joseph", "postal_code": "HT0000" },
-            { "name": "Mandou", "postal_code": "HT0000" }
+            { "name": "Grandoit", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Boudon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Îlet à Pierre Joseph", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mandou", "aliases": [], "postal_code": "HT0000" }
         ]
     },
     {
-        "municipality": "Dame-Marie",
+        "municipality": "Dame Marie",
         "submunicipalities": [
-            { "name": "Bariadelle", "postal_code": "HT0000" },
-            { "name": "Dallier", "postal_code": "HT0000" },
-            { "name": "Desormeau", "postal_code": "HT0000" },
-            { "name": "Petite Rivière", "postal_code": "HT0000" },
-            { "name": "Baliverne", "postal_code": "HT0000" }
+            { "name": "Bariadelle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dallier", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Desormeau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petite Rivière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Baliverne", "aliases": [], "postal_code": "HT0000" }
         ]
     },
+    {
+        "municipality": "Les Irois",
+        "submunicipalities": [
+            { "name": "Matador (Jorgue)", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Beaumont",
+        "submunicipalities": [
+            { "name": "Beaumont", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Chardonnette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mouline", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Corail",
+        "submunicipalities": [
+            { "name": "Duquillon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond d'Icaque", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Champy", "aliases": ["Nan Campêche"], "postal_code": "HT0000" },
+            { "name": "Rimbeau", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Pestel",
+        "submunicipalities": [
+            { "name": "Bernagousse", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Espère", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Jean Bellune", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Tozia", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Duchity", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Les Cayemites", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Roseaux",
+        "submunicipalities": [
+            { "name": "Carrefour Charles Jacqui", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Lopineau", "aliases": ["Cochon"], "postal_code": "HT0000" },
+            { "name": "Grand Vincent", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Les Gommiers", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Abricots",
+        "submunicipalities": [
+            { "name": "Anse du Clerc", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Balisiers", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Danglise", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Seringue", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Bonbon",
+        "submunicipalities": [
+            { "name": "Desormeau", "aliases": ["Bonbon"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Chambellan",
+        "submunicipalities": [
+            { "name": "Dejean", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Boucan", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Jérémie",
+        "submunicipalities": [
+            { "name": "Basse Voldrogue", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haute Guinaudée", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Basse Guinaudée", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Ravine à Charles", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Iles Blanches", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Marfranc Grande Rivière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Rouge Dahere", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Rouge Torbeck", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Idiot",
+        "submunicipalities": [
+            { "name": "Anote", "aliases": ["Tapion 1ère"], "postal_code": "HT0000" },
+            { "name": "Sources Chaudes", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Chameau", "aliases": ["Assise"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Anse à Veau",
+        "submunicipalities": [
+            { "name": "Baconnois Grand Fond", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Rivière Joly", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Saut du Baril", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Petit Trou de Nippes",
+        "submunicipalities": [
+            { "name": "Raymond", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Tiby", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lieve", "aliases": ["Vigny"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "L'Asile",
+        "submunicipalities": [
+            { "name": "L'Asile Nan Paul", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Changeux", "aliases": ["Quartier de Changeux"], "postal_code": "HT0000" },
+            { "name": "Tournade", "aliases": ["Quartier de Changeux"], "postal_code": "HT0000" },
+            { "name": "Morrisseau", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Arnaud",
+        "submunicipalities": [
+            { "name": "Baconnois Barreau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Baquet", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Morcou", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Plaisance du Sud",
+        "submunicipalities": [
+            { "name": "Plaisance du Sud", "aliases": ["Ti François"], "postal_code": "HT0000" },
+            { "name": "Anse aux Pins", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Vassal Labiche", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Baradères",
+        "submunicipalities": [
+            { "name": "Mouton gérin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Tête d'Eau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Tortue", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Plaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rivière Salée", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Grand Boucan",
+        "submunicipalities": [
+            { "name": "Grand Boucan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Eaux basses", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Miragoâne",
+        "submunicipalities": [
+            { "name": "Chalon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Belle Rivière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dessources", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Saint Michel du Sud", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Petite Rivière de Nippes",
+        "submunicipalities": [
+            { "name": "Fond des Lianes", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cholette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Silègue", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bezin", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Fonds des Nègres",
+        "submunicipalities": [
+            { "name": "Bouzi", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond des Nègres Morne Brice", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pemerle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cocoyers Ducheine", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Paillant",
+        "submunicipalities": [
+            { "name": "Salagnac", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bezin II", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Acul du Nord",
+        "submunicipalities": [
+            { "name": "Camp Louise", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas de l'Acul", "aliases": ["Basse Plaine"], "postal_code": "HT0000" },
+            { "name": "Mornet", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Ravine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Coupe à David", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Soufrière", "aliases": ["Acul du Nord"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Milot",
+        "submunicipalities": [
+            { "name": "Perches de Bonnet", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bonnet à l'Evèque", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Genipailler", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Plaine du Nord",
+        "submunicipalities": [
+            { "name": "Morne Rouge", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Basse Plaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grand Boucan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bassin Diamant", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Borgne",
+        "submunicipalities": [
+            { "name": "Margot", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Michel Boucan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petit Bourg de Borgne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Trou d'Enfer", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Champagne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Molas", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Côte de Fer et Fond", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Port Margot",
+        "submunicipalities": [
+            { "name": "Grande Plaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas Petit Borgne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Corail", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut Petit Borgne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bras Gauche", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cap Haïtien",
+        "submunicipalities": [
+            { "name": "Du bande Nord", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut du Cap", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petit Anse", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Limonade",
+        "submunicipalities": [
+            { "name": "Basse Plaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois de Lance", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Roucou", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Quartier Morin",
+        "submunicipalities": [
+            { "name": "Basse Plaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Morne Pelé", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Bahon",
+        "submunicipalities": [
+            { "name": "Bois Pin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bailly", "aliases": ["Bailla"], "postal_code": "HT0000" },
+            { "name": "Montagne Noire", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Grande Rivière du Nord",
+        "submunicipalities": [
+            { "name": "Grand Gilles", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Solon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Caracol", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Gambade", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Joli Trou", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cormiers", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Bas Limbé",
+        "submunicipalities": [
+            { "name": "Garde Champetre", "aliases": ["Bas Limbé"], "postal_code": "HT0000" },
+            { "name": "Petit Howars", "aliases": ["La Fange"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Limbé",
+        "submunicipalities": [
+            { "name": "Haut Limbé", "aliases": ["Acul Jeanot"], "postal_code": "HT0000" },
+            { "name": "Chabotte", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Camp Coq", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Soufrière", "aliases": ["Limbé"], "postal_code": "HT0000" },
+            { "name": "Ravine Desroches", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Ilot à Corne", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Pilate",
+        "submunicipalities": [
+            { "name": "Ballon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Baudin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Ravine Trompette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Joly", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dubourg", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Piment", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rivière Laporte", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Margot", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Plaisance",
+        "submunicipalities": [
+            { "name": "Gobert", "aliases": ["Colline gobert"], "postal_code": "HT0000" },
+            { "name": "Champagne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut Martineau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mapou", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Problème", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Ville", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bassin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Rivière", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Dondon",
+        "submunicipalities": [
+            { "name": "Brostage", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bassin Caïman", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Matador", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Laguille", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut du Trou", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "La Victoire",
+        "submunicipalities": [
+            { "name": "La Victoire", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Pignon",
+        "submunicipalities": [
+            { "name": "Savannette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Belle Mère", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Ranquitte",
+        "submunicipalities": [
+            { "name": "Bac à Soude", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois de Lance", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cracaraille", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Saint Raphaël",
+        "submunicipalities": [
+            { "name": "Bois Neuf", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mathurin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bouyaha", "aliases": [], "postal_code": "HT0000" },
+            { "name": "San Yago", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Fort Liberté",
+        "submunicipalities": [
+            { "name": "Dumas", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bayaha", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Loiseau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Madeleine", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Perches",
+        "submunicipalities": [
+            { "name": "Haut des Perches", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas des Perches", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Ferrier",
+        "submunicipalities": [
+            { "name": "Bas Maribahoux", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Capotille",
+        "submunicipalities": [
+            { "name": "Capotille", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lamine", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Mont Organisé",
+        "submunicipalities": [
+            { "name": "Savanette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois Poux", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Ouanaminthe",
+        "submunicipalities": [
+            { "name": "Haut Maribahoux", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Acul des Pins", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Savane Longue", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Savane au Lait", "aliases": [], "postal_code": "HT0000" },
+            { "name": "De Nantes Gén", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Caracol",
+        "submunicipalities": [
+            { "name": "Champin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Glaudine", "aliases": ["Jacquesil"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Sainte Suzanne",
+        "submunicipalities": [
+            { "name": "Foulon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois Blanc", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cotelette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Sarazin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Neuf Moka", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Bleu", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Terrier Rouge",
+        "submunicipalities": [
+            { "name": "Fond Blanc", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grand Bassin", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Trou du Nord",
+        "submunicipalities": [
+            { "name": "Garcin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Roucou", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Roche Plate", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Carice",
+        "submunicipalities": [
+            { "name": "Bois Camelle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rose Bonite", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Mombin Crochu",
+        "submunicipalities": [
+            { "name": "Sans Souci", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois Laurence", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Vallières",
+        "submunicipalities": [
+            { "name": "Palmistes", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grosse Roche Ecrevisse", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Corosse", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Baie de Henne",
+        "submunicipalities": [
+            { "name": "Rémy Citerne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dos d'Ane", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Réserve", "aliases": ["Ti Paradis"], "postal_code": "HT0000" },
+            { "name": "L'Estère Dere", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Bombardopolis",
+        "submunicipalities": [
+            { "name": "Plate Forme", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Forges", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Plaine d'Orange", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Jean Rabel",
+        "submunicipalities": [
+            { "name": "Lacoma", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Guinaudée", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Vieille Hatte", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Montagne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dessources", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Source", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Diondion", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Môle Saint Nicolas",
+        "submunicipalities": [
+            { "name": "Côtes de Fer", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mare Rouge", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dame", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Bassin Bleu",
+        "submunicipalities": [
+            { "name": "La plaque", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Datty Carreau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut des Moustiques", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Chansolme",
+        "submunicipalities": [
+            { "name": "Chansolme", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Beauvoi", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "La Tortue",
+        "submunicipalities": [
+            { "name": "Pointe des Oiseaux", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mare Rouge", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Port de Paix",
+        "submunicipalities": [
+            { "name": "Baudin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lapointe", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Aubert", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mahotière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bais des Moustiques", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Corne", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Anse à Foleur",
+        "submunicipalities": [
+            { "name": "Bas de Sainte Anne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mayance", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Côtes de Fer", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Saint Louis du Nord",
+        "submunicipalities": [
+            { "name": "Rivière des Nègres", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Derourvay", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Granges", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rivière de Barre", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bonneau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lafague", "aliases": ["Chamoise"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Arcahaie",
+        "submunicipalities": [
+            { "name": "Boucassin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fonds Baptiste", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Vases", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Montrouis", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Délice", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Matheux", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cabaret",
+        "submunicipalities": [
+            { "name": "Boucassin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Source Matelas", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fonds des Blancs", "aliases": ["Casale"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cornillon",
+        "submunicipalities": [
+            { "name": "Plaine Céleste", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois Pin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Génipailler", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Croix des Bouquets",
+        "submunicipalities": [
+            { "name": "Varreux", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petit Bois", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Belle Fontaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Crochus", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Orangers", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Fonds Verrettes",
+        "submunicipalities": [
+            { "name": "Fonds Verrettes", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Ganthier",
+        "submunicipalities": [
+            { "name": "Galette Chambon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Balan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Parisien", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mare Roseaux", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pays Pourri", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Thomazeau",
+        "submunicipalities": [
+            { "name": "Grande Plaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Trou d'Eau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Crochus", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Anse à Galets",
+        "submunicipalities": [
+            { "name": "Palma", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Source Petite", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Source", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grand Lagon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Picmy", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petite Anse", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Pointe à Raquette",
+        "submunicipalities": [
+            { "name": "La source", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grand Vide", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Trou Louis", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pointe à Raquette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Gros Mangle", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Grand Goâve",
+        "submunicipalities": [
+            { "name": "Tête à Boeuf", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Moussambé", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Colline", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Gérard", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Léogâne",
+        "submunicipalities": [
+            { "name": "Dessources", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petite Rivière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Rivière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond de Boudin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Palmiste à Vin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Orangers", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Parques", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Beauséjour", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Citronniers", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond d'Oie", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Gros Morne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cormiers", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petit Harpon", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Petit Goâve",
+        "submunicipalities": [
+            { "name": "Bino", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Delatre", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Trou Chouchou", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond arabe", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Trou Canari", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Platons", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Palmes", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Sèche", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fourques", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Carrefour",
+        "submunicipalities": [
+            { "name": "Morne Chandelle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Platon Dufrêne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Taïfer", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Procy", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Coupeau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bouvier", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lavalle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Berly", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bizoton", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Thor", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Rivière Froide", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Malanga", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Thor Corail", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Delmas",
+        "submunicipalities": [
+            { "name": "St Martin", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Gressier",
+        "submunicipalities": [
+            { "name": "Morne à Bateau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Chandelle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Petit Boucan", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Kenscoff",
+        "submunicipalities": [
+            { "name": "Nouvelle Touraine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bongars", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Sourcailles", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Belle Fontaine", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grand Fond", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Pétion Ville",
+        "submunicipalities": [
+            { "name": "Montagne Noire", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cadets aux", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Etang du Jonc", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bellevue la Montagne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bellevue Chardonnière", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Tabarre",
+        "submunicipalities": [
+            { "name": "Bellevue", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cité Soleil",
+        "submunicipalities": [
+            { "name": "Varreux", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Port au Prince",
+        "submunicipalities": [
+            { "name": "Turgeau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "L'Hôpital", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Martissant", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Bainet",
+        "submunicipalities": [
+            { "name": "Brésilienne", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Trou Mahot", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Vallée de Bainet", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut Grandou", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas de Grandou", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas de Lacroix", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bras Gauche", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Oranger", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas des Gris Gris", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Côtes de Fer",
+        "submunicipalities": [
+            { "name": "Gris Gris", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Labiche", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bras Gauche", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Amazone", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Boucan BELIER", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Jamais Vu", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Anse à Pitres",
+        "submunicipalities": [
+            { "name": "Guillaume Boucan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bois d'Orme", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Belle Anse",
+        "submunicipalities": [
+            { "name": "Bais d'Orange", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mabriole", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Callumette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Lamothe Corail", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bel Air", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pichon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mapou", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Grand Gosier",
+        "submunicipalities": [
+            { "name": "Colline des Chênes", "aliases": ["Bodarie"], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Thiotte",
+        "submunicipalities": [
+            { "name": "Thiotte", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pot de Chambre", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cayes Jacmel",
+        "submunicipalities": [
+            { "name": "Normande", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Gaillard", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut Cap Rouge", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Melon Michineau", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Jacmel",
+        "submunicipalities": [
+            { "name": "Bas Cap Rouge", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Melon", "aliases": ["Selles"], "postal_code": "HT0000" },
+            { "name": "Gras Cochon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Gosseline", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Marbial", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Montagne La Voute", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Rivière de Jacmel", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bas Coq Chante", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Haut Coq Chante", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Vanneau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Montagne", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "La Vallée",
+        "submunicipalities": [
+            { "name": "La Vallée de Jacmel", "aliases": ["Muzac"], "postal_code": "HT0000" },
+            { "name": "La Vallée de Bainet", "aliases": ["Ternier"], "postal_code": "HT0000" },
+            { "name": "Morne à Brûler", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Marigot",
+        "submunicipalities": [
+            { "name": "Soult Corail", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grande Rivière Fesles", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Macary", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond Jean Noël", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dubois Savane", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Aquin",
+        "submunicipalities": [
+            { "name": "Macéan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bellevue", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Brodequin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Flamands", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mare à Coiffe", "aliases": [], "postal_code": "HT0000" },
+            { "name": "La Colline", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Frangipane", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Ë Mongons Colline", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fond des Blancs", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Section Guirand", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cavaellon",
+        "submunicipalities": [
+            { "name": "Boileau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Martineau", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Gros Marin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Mare Henri", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Laroque", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Saint Louis du Sud",
+        "submunicipalities": [
+            { "name": "Grand Fonds", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Baie Dumesle", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Grenodière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Zanglais", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Sucrerie Henri", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Solon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cherette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Henri Corail", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Camp Perrin",
+        "submunicipalities": [
+            { "name": "Mersan", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Champlois", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Tibi Davezac", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Les Cayes",
+        "submunicipalities": [
+            { "name": "Bourdet", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fonfrède", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Laborde", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Laurent", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Pitié", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Boulmier", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Chantal",
+        "submunicipalities": [
+            { "name": "Fonds Palmiste", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Melonière", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Carrefour Canon", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Île à Vache",
+        "submunicipalities": [
+            { "name": "Île à Vache", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Maniche",
+        "submunicipalities": [
+            { "name": "Maniche", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dory", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Melon", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Torbeck",
+        "submunicipalities": [
+            { "name": "Boury", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bérault", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Solon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Moreau", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Les Anglais",
+        "submunicipalities": [
+            { "name": "Verone", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Edelin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Cosse", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Chardonnières",
+        "submunicipalities": [
+            { "name": "Randal", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dejoie", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Osseux", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Tiburon",
+        "submunicipalities": [
+            { "name": "Blactote", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Nan Sevre", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Loby", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dalmette", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Côteaux",
+        "submunicipalities": [
+            { "name": "Condé", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Despas", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Quentin", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Port à Piment",
+        "submunicipalities": [
+            { "name": "Paricot", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Balais", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Roche à Bateaux",
+        "submunicipalities": [
+            { "name": "Beaulieu", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Renaudin", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Beauclos", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Arniquet",
+        "submunicipalities": [
+            { "name": "Lazarre", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Anse à Drick", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Arniquet", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Port Salut",
+        "submunicipalities": [
+            { "name": "Barbois", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Dumont", "aliases": [], "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Saint Jean du Sud",
+        "submunicipalities": [
+            { "name": "Tapion", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Débouchette", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Jean Claude Trichet", "aliases": [], "postal_code": "HT0000" }
+        ]
+    }
 ]

@@ -2,93 +2,93 @@
     {
         "county": "Artibonite",
         "districts": [
-            { "name": "Dessalines" },
-            { "name": "Gonaïves" },
-            { "name": "Gros Morne" },
-            { "name": "Marmelade" },
-            { "name": "Saint Marc" }
+            { "name": "Dessalines", "aliases": [] },
+            { "name": "Gonaïves", "aliases": [] },
+            { "name": "Gros Morne", "aliases": [] },
+            { "name": "Marmelade", "aliases": [] },
+            { "name": "Saint Marc", "aliases": [] }
         ]
     },
     {
         "county": "Centre",
         "districts": [
-            { "name": "Cerca la Source" },
-            { "name": "Hinche" },
-            { "name": "Lascahobas" },
-            { "name": "Mirebalais" }
+            { "name": "Cerca la Source", "aliases": [] },
+            { "name": "Hinche", "aliases": [] },
+            { "name": "Lascahobas", "aliases": [] },
+            { "name": "Mirebalais", "aliases": [] }
         ]
     },
     {
         "county": "Grand'Anse",
         "districts": [
-            { "name": "Anse d'Hainault" },
-            { "name": "Corail" },
-            { "name": "Jérémie" }
+            { "name": "Anse d'Hainault", "aliases": [] },
+            { "name": "Corail", "aliases": [] },
+            { "name": "Jérémie", "aliases": [] }
         ]
     },
     {
         "county": "Nippes",
         "districts": [
-            { "name": "Anse à Veau" },
-            { "name": "Baradères" },
-            { "name": "Miragoâne" }
+            { "name": "Anse à Veau", "aliases": [] },
+            { "name": "Baradères", "aliases": [] },
+            { "name": "Miragoâne", "aliases": [] }
         ]
     },
     {
         "county": "Nord",
         "districts": [
-            { "name": "Acul du Nord" },
-            { "name": "Borgne" },
-            { "name": "Cap Haïtien" },
-            { "name": "Grande Rivière du Nord" },
-            { "name": "Limbé" },
-            { "name": "Plaisance" },
-            { "name": "Saint Raphaël" }
+            { "name": "Acul du Nord", "aliases": [] },
+            { "name": "Borgne", "aliases": [] },
+            { "name": "Cap Haïtien", "aliases": [] },
+            { "name": "Grande Rivière du Nord", "aliases": [] },
+            { "name": "Limbé", "aliases": [] },
+            { "name": "Plaisance", "aliases": [] },
+            { "name": "Saint Raphaël", "aliases": [] }
         ]
     },
     {
         "county": "Nord Est",
         "districts": [
-            { "name": "Fort Liberté" },
-            { "name": "Ouanaminthe" },
-            { "name": "Trou du Nord" },
-            { "name": "Vallières" }
+            { "name": "Fort Liberté", "aliases": [] },
+            { "name": "Ouanaminthe", "aliases": [] },
+            { "name": "Trou du Nord", "aliases": [] },
+            { "name": "Vallières", "aliases": [] }
         ]
     },
     {
         "county": "Nord Ouest",
         "districts": [
-            { "name": "Môle Saint Nicolas" },
-            { "name": "Port de Paix" },
-            { "name": "Saint Louis du Nord" }
+            { "name": "Môle Saint Nicolas", "aliases": [] },
+            { "name": "Port de Paix", "aliases": [] },
+            { "name": "Saint Louis du Nord", "aliases": [] }
         ]
     },
     {
         "county": "Ouest",
         "districts": [
-            { "name": "Arcahaie" },
-            { "name": "Croix des Bouquets" },
+            { "name": "Arcahaie", "aliases": [] },
+            { "name": "Croix des Bouquets", "aliases": [] },
             { "name": "Gonâve", "islet": true },
-            { "name": "Léogâne" },
-            { "name": "Port au Prince" }
+            { "name": "Léogâne", "aliases": [] },
+            { "name": "Port au Prince", "aliases": [] }
         ]
     },
     {
         "county": "Sud Est",
         "districts": [
-            { "name": "Bainet" },
-            { "name": "Belle Anse" },
-            { "name": "Jacmel" }
+            { "name": "Bainet", "aliases": [] },
+            { "name": "Belle Anse", "aliases": [] },
+            { "name": "Jacmel", "aliases": [] }
         ]
     },
     {
         "county": "Sud",
         "districts": [
-            { "name": "Aquin" },
-            { "name": "Les Cayes" },
-            { "name": "Chardonnières" },
-            { "name": "Côteaux" },
-            { "name": "Port Salut" }
+            { "name": "Aquin", "aliases": [] },
+            { "name": "Les Cayes", "aliases": [] },
+            { "name": "Chardonnières", "aliases": [] },
+            { "name": "Côteaux", "aliases": [] },
+            { "name": "Port Salut", "aliases": [] }
         ]
     }
 ]
