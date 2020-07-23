@@ -1,0 +1,383 @@
+[
+    {
+        "district": "Dessalines",
+        "municipalities": [
+            { "name": "Dessalines" },
+            { "name": "Desdunes" },
+            { "name": "Grande Saline" },
+            { "name": "Petite Rivière de l'Artibonite" }
+        ]
+    },
+    {
+        "district": "Gonaïves",
+        "municipalities": [
+            { "name": "Gonaïves" },
+            { "name": "Ennery" },
+            { "name": "L'Estère" }
+        ]
+    },
+    {
+        "district": "Gros Morne",
+        "municipalities": [
+            { "name": "Gros Morne" },
+            { "name": "Anse Rouge" },
+            { "name": "Terre Neuve" }
+        ]
+    },
+    {
+        "district": "Marmelade",
+        "municipalities": [
+            { "name": "Marmelade" },
+            { "name": "Saint Michel de l'Attalaye" }
+        ]
+    },
+    {
+        "district": "Saint Marc",
+        "municipalities": [
+            { "name": "Saint Marc" },
+            { "name": "La Chapelle" },
+            { "name": "Liancourt" },
+            { "name": "Verrettes" }
+        ]
+    },
+
+
+
+    {
+        "district": "Cerca la Source",
+        "municipalities": [
+            { "name": "Cerca la Source" },
+            { "name": "Thomassique" }
+        ]
+    },
+    {
+        "district": "Hinche",
+        "municipalities": [
+            { "name": "Hinche" },
+            { "name": "Cerca Carvajal" },
+            { "name": "Maïssade" },
+            { "name": "Thomonde" }
+        ]
+    },
+    {
+        "district": "Lascahobas",
+        "municipalities": [
+            { "name": "Lascahobas" },
+            { "name": "Baptiste" },
+            { "name": "Belladère" },
+            { "name": "Savanette" }
+        ]
+    },
+    {
+        "district": "Mirebalais",
+        "municipalities": [
+            { "name": "Mirebalais" },
+            { "name": "Carré Boucan" },
+            { "name": "Saut d'Eau" }
+        ]
+    },
+
+
+
+    {
+        "district": "Anse d'Hainault",
+        "municipalities": [
+            { "name": "Anse d'Hainault" },
+            { "name": "Dame Marie" },
+            { "name": "Les Irois" }
+        ]
+    },
+    {
+        "district": "Corail",
+        "municipalities": [
+            { "name": "Corail" },
+            { "name": "Beaumont" },
+            { "name": "Pestel" },
+            { "name": "Roseaux" }
+        ]
+    },
+    {
+        "district": "Jérémie",
+        "municipalities": [
+            { "name": "Jérémie" },
+            { "name": "Abricots" },
+            { "name": "Bonbon" },
+            { "name": "Chambellan" },
+            { "name": "Marfranc" },
+            { "name": "Idiot" }
+        ]
+    },
+
+
+
+    {
+        "district": "Anse à Veau",
+        "municipalities": [
+            { "name": "Anse à Veau" },
+            { "name": "Arnaud" },
+            { "name": "L'Asile" },
+            { "name": "Petit Trou de Nippes" },
+            { "name": "Plaisance du Sud" }
+        ]
+    },
+    {
+        "district": "Baradères",
+        "municipalities": [
+            { "name": "Baradères" },
+            { "name": "Grand Boucan" }
+        ]
+    },
+    {
+        "district": "Miragoâne",
+        "municipalities": [
+            { "name": "Miragoâne" },
+            { "name": "Fonds des Nègres" },
+            { "name": "Paillant" },
+            { "name": "Petite Rivière de Nippes" }
+        ]
+    },
+
+
+
+    {
+        "district": "Acul du Nord",
+        "municipalities": [
+            { "name": "Acul du Nord" },
+            { "name": "Milot" },
+            { "name": "Plaine du Nord" }
+        ]
+    },
+    {
+        "district": "Borgne",
+        "municipalities": [
+            { "name": "Borgne" },
+            { "name": "Port Margot" }
+        ]
+    },
+    {
+        "district": "Cap Haïtien",
+        "municipalities": [
+            { "name": "Cap Haïtien" },
+            { "name": "Limonade" },
+            { "name": "Quartier Morin" }
+        ]
+    },
+    {
+        "district": "Grande Rivière du Nord",
+        "municipalities": [
+            { "name": "Grande Rivière du Nord" },
+            { "name": "Bahon" }
+        ]
+    },
+    {
+        "district": "Limbé",
+        "municipalities": [
+            { "name": "Limbé" },
+            { "name": "Bas Limbé" }
+        ]
+    },
+    {
+        "district": "Plaisance",
+        "municipalities": [
+            { "name": "Plaisance" },
+            { "name": "Pilate" }
+        ]
+    },
+    {
+        "district": "Saint Raphaël",
+        "municipalities": [
+            { "name": "Saint Raphaël" },
+            { "name": "Dondon" },
+            { "name": "La Victoire" },
+            { "name": "Pignon" },
+            { "name": "Ranquitte" }
+        ]
+    },
+
+
+
+    {
+        "district": "Fort Liberté",
+        "municipalities": [
+            { "name": "Fort Liberté" },
+            { "name": "Perches" },
+            { "name": "Ferrier" }
+        ]
+    },
+    {
+        "district": "Ouanaminthe",
+        "municipalities": [
+            { "name": "Ouanaminthe" },
+            { "name": "Capotille" },
+            { "name": "Mont Organisé" }
+        ]
+    },
+    {
+        "district": "Trou du Nord",
+        "municipalities": [
+            { "name": "Trou du Nord" },
+            { "name": "Caracol" },
+            { "name": "Sainte Suzanne" },
+            { "name": "Terrier Rouge" }
+        ]
+    },
+    {
+        "district": "Vallières",
+        "municipalities": [
+            { "name": "Vallières" },
+            { "name": "Carice" },
+            { "name": "Mombin Crochu" }
+        ]
+    },
+
+
+
+    {
+        "district": "Môle Saint Nicolas",
+        "municipalities": [
+            { "name": "Môle Saint Nicolas" },
+            { "name": "Baie de Henne" },
+            { "name": "Bombardopolis" },
+            { "name": "Jean Rabel" }
+        ]
+    },
+    {
+        "district": "Port de Paix",
+        "municipalities": [
+            { "name": "Port de Paix" },
+            { "name": "Bassin Bleu" },
+            { "name": "Chansolme" },
+            { "name": "Lapointe" },
+            { "name": "La Tortue" }
+        ]
+    },
+    {
+        "district": "Saint Louis du Nord",
+        "municipalities": [
+            { "name": "Saint Louis du Nord" },
+            { "name": "Anse à Foleur" }
+        ]
+    },
+
+
+
+    {
+        "district": "Arcahaie",
+        "municipalities": [
+            { "name": "Arcahaie" },
+            { "name": "Cabaret" }
+        ]
+    },
+    {
+        "district": "Croix des Bouquets",
+        "municipalities": [
+            { "name": "Croix des Bouquets" },
+            { "name": "Cornillon" },
+            { "name": "Fonds Verrettes" },
+            { "name": "Ganthier" },
+            { "name": "Thomazeau" }
+        ]
+    },
+    {
+        "district": "Gonâve",
+        "municipalities": [
+            { "name": "Anse à Galets" },
+            { "name": "Pointe à Raquette" }
+        ]
+    },
+    {
+        "district": "Léogâne",
+        "municipalities": [
+            { "name": "Léogâne" },
+            { "name": "Grand Goâve" },
+            { "name": "Petit Goâve" }
+        ]
+    },
+    {
+        "district": "Port au Prince",
+        "municipalities": [
+            { "name": "Port au Prince" },
+            { "name": "Carrefour" },
+            { "name": "Cité Soleil" },
+            { "name": "Delmas" },
+            { "name": "Gressier" },
+            { "name": "Kenscoff" },
+            { "name": "Pétion Ville" },
+            { "name": "Tabarre" }
+        ]
+    },
+
+
+
+    {
+        "district": "Bainet",
+        "municipalities": [
+            { "name": "Bainet" },
+            { "name": "Côtes de Fer" }
+        ]
+    },
+    {
+        "district": "Belle Anse",
+        "municipalities": [
+            { "name": "Belle Anse" },
+            { "name": "Anse à Pitres" },
+            { "name": "Grand Gosier" },
+            { "name": "Thiotte" }
+        ]
+    },
+    {
+        "district": "Jacmel",
+        "municipalities": [
+            { "name": "Jacmel" },
+            { "name": "Cayes Jacmel" },
+            { "name": "La Vallée" },
+            { "name": "Marigot" }
+        ]
+    },
+
+
+
+    {
+        "district": "Aquin",
+        "municipalities": [
+            { "name": "Aquin" },
+            { "name": "Cavaillon" },
+            { "name": "Saint Louis du Sud" }
+        ]
+    },
+    {
+        "district": "Les Cayes",
+        "municipalities": [
+            { "name": "Les Cayes" },
+            { "name": "Camp Perrin" },
+            { "name": "Chantal" },
+            { "name": "Île à Vache" },
+            { "name": "Maniche" },
+            { "name": "Torbeck" }
+        ]
+    },
+    {
+        "district": "Chardonnières",
+        "municipalities": [
+            { "name": "Chardonnières" },
+            { "name": "Les Anglais" },
+            { "name": "Tiburon" }
+        ]
+    },
+    {
+        "district": "Côteaux",
+        "municipalities": [
+            { "name": "Côteaux" },
+            { "name": "Port à Piment" },
+            { "name": "Roche à Bateaux" }
+        ]
+    },
+    {
+        "district": "Port Salut",
+        "municipalities": [
+            { "name": "Port Salut" },
+            { "name": "Arniquet" },
+            { "name": "Saint Jean du Sud" }
+        ]
+    }
+]

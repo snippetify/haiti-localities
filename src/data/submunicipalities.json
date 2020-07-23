@@ -1,0 +1,253 @@
+[
+    {
+        "municipality": "Desdunes",
+        "submunicipalities": [
+            { "name": "Desdunes", "postal_code": "HT4440" }
+        ]
+    },
+    {
+        "municipality": "Dessalines",
+        "submunicipalities": [
+            { "name": "Villard", "postal_code": "HT0000" },
+            { "name": "Fosse Naboth OU Duvallon", "postal_code": "HT0000" },
+            { "name": "Ogé", "postal_code": "HT0000" },
+            { "name": "Poste Pierrot", "postal_code": "HT0000" },
+            { "name": "Fiéfé Petit Cahos OU", "postal_code": "HT0000" },
+            { "name": "ll Croix òû Grand-Cahos", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Grande Saline",
+        "submunicipalities": [
+            { "name": "Poteneau", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Petite Rivière de l'Artibonite",
+        "submunicipalities": [
+            { "name": "Bas Coursin I", "postal_code": "HT0000" },
+            { "name": "Bas Coursin II", "postal_code": "HT0000" },
+            { "name": "Labady", "postal_code": "HT0000" },
+            { "name": "À Roche Savane", "postal_code": "HT0000" },
+            { "name": "Pérodin", "postal_code": "HT0000" },
+            { "name": "Médor", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Ennery",
+        "submunicipalities": [
+            { "name": "Savane Carrée", "postal_code": "HT0000" },
+            { "name": "Reine Passe-Bas d'Ennery òû", "postal_code": "HT0000" },
+            { "name": "Chemin Neuf", "postal_code": "HT0000" },
+            { "name": "Puilboreau", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "L'Estère",
+        "submunicipalities": [
+            { "name": "Croix Périsse", "postal_code": "HT0000" },
+            { "name": "Desdunes", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Gonaïves",
+        "submunicipalities": [
+            { "name": "Pont Tamarin", "postal_code": "HT0000" },
+            { "name": "Bassin", "postal_code": "HT0000" },
+            { "name": "Rivière de Bayonnais", "postal_code": "HT0000" },
+            { "name": "Poteaux", "postal_code": "HT0000" },
+            { "name": "Labranle", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Anse-Rouge",
+        "submunicipalities": [
+            { "name": "L'Arbre", "postal_code": "HT0000" },
+            { "name": "Sources Chaudes", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Gros-Morne",
+        "submunicipalities": [
+            { "name": "Richard Boucan", "postal_code": "HT0000" },
+            { "name": "Rivière Mancelle", "postal_code": "HT0000" },
+            { "name": "Rivière Blanche", "postal_code": "HT0000" },
+            { "name": "L'Acul", "postal_code": "HT0000" },
+            { "name": "Pendu", "postal_code": "HT0000" },
+            { "name": "Savane Carrée", "postal_code": "HT0000" },
+            { "name": "Moulin", "postal_code": "HT0000" },
+            { "name": "Ravine Gros Morne", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Terre-Neuve",
+        "submunicipalities": [
+            { "name": "Doland", "postal_code": "HT0000" },
+            { "name": "Bois Neuf", "postal_code": "HT0000" },
+            { "name": "Lagon", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Marmelade",
+        "submunicipalities": [
+            { "name": "Crête-à-Pins", "postal_code": "HT0000" },
+            { "name": "Bassin OU Billier", "postal_code": "HT0000" },
+            { "name": "Platon", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Saint-Michel-de-l'Attalaye",
+        "submunicipalities": [
+            { "name": "Platana", "postal_code": "HT0000" },
+            { "name": "Camathe", "postal_code": "HT0000" },
+            { "name": "Bas de Sault", "postal_code": "HT0000" },
+            { "name": "Lalomas", "postal_code": "HT0000" },
+            { "name": "L'Ermite", "postal_code": "HT0000" },
+            { "name": "Lacedras", "postal_code": "HT0000" },
+            { "name": "Marmont", "postal_code": "HT0000" },
+            { "name": "L'Attalaye", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "La Chapelle",
+        "submunicipalities": [
+            { "name": "Martineau", "postal_code": "HT0000" },
+            { "name": "Bossous", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Saint-Marc",
+        "submunicipalities": [
+            { "name": "Inonder", "postal_code": "HT0000" },
+            { "name": "Bois Neuf", "postal_code": "HT0000" },
+            { "name": "Goyavier", "postal_code": "HT0000" },
+            { "name": "Lalouère", "postal_code": "HT0000" },
+            { "name": "Bocozelle", "postal_code": "HT0000" },
+            { "name": "Charrette", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Verrettes",
+        "submunicipalities": [
+            { "name": "Liancourt", "postal_code": "HT0000" },
+            { "name": "Bélanger", "postal_code": "HT0000" },
+            { "name": "Guillaume", "postal_code": "HT0000" },
+            { "name": "Désarmes", "postal_code": "HT0000" },
+            { "name": "Bastien", "postal_code": "HT0000" },
+            { "name": "Terre Natte", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cerca-la-Source",
+        "submunicipalities": [
+            { "name": "Brûlé Acajou", "postal_code": "HT0000" },
+            { "name": "Lamielle", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Thomassique",
+        "submunicipalities": [
+            { "name": "Matelgate", "postal_code": "HT0000" },
+            { "name": "Lociane", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Cerca-Carvajal",
+        "submunicipalities": [
+            { "name": "A sonné", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Hinche",
+        "submunicipalities": [
+            { "name": "Juanaria", "postal_code": "HT0000" },
+            { "name": "Marmont", "postal_code": "HT0000" },
+            { "name": "Aguahédionde (Rive Droite)", "postal_code": "HT0000" },
+            { "name": "Aguahédionde (Rive Gauche)", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Maïssade",
+        "submunicipalities": [
+            { "name": "Grande Savane", "postal_code": "HT0000" },
+            { "name": "Narang", "postal_code": "HT0000" },
+            { "name": "Hatty", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Thomonde",
+        "submunicipalities": [
+            { "name": "Cabral", "postal_code": "HT0000" },
+            { "name": "Terre Muscady", "postal_code": "HT0000" },
+            { "name": "Baille Tourrible", "postal_code": "HT0000" },
+            { "name": "La Hoye", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Belladère",
+        "submunicipalities": [
+            { "name": "Renthe Mathe", "postal_code": "HT0000" },
+            { "name": "Roye-Sec", "postal_code": "HT0000" },
+            { "name": "Riaribes", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Lascahobas",
+        "submunicipalities": [
+            { "name": "Petit Fond", "postal_code": "HT0000" },
+            { "name": "Juampas", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Savanette",
+        "submunicipalities": [
+            { "name": "Savanette (Colombier)", "postal_code": "HT0000" },
+            { "name": "La Haye", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Carré-Boucan",
+        "submunicipalities": [
+            { "name": "Petite Montagne", "postal_code": "HT0000" },
+            { "name": "Boucan Carré", "postal_code": "HT0000" },
+            { "name": "Bayes", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Mirebalais",
+        "submunicipalities": [
+            { "name": "Gascogne", "postal_code": "HT0000" },
+            { "name": "Sarazin", "postal_code": "HT0000" },
+            { "name": "Grand-Boucan", "postal_code": "HT0000" },
+            { "name": "Crête Brûlée", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Saut-d'Eau",
+        "submunicipalities": [
+            { "name": "Rivière Canot Canot ous", "postal_code": "HT0000" },
+            { "name": "La Selle", "postal_code": "HT0000" },
+            { "name": "Coupe Mardi Gras", "postal_code": "HT0000" },
+            { "name": "Montagne Terrible", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Anse-d'Hainault",
+        "submunicipalities": [
+            { "name": "Grandoit", "postal_code": "HT0000" },
+            { "name": "Boudon", "postal_code": "HT0000" },
+            { "name": "Îlet à Pierre Joseph", "postal_code": "HT0000" },
+            { "name": "Mandou", "postal_code": "HT0000" }
+        ]
+    },
+    {
+        "municipality": "Dame-Marie",
+        "submunicipalities": [
+            { "name": "Bariadelle", "postal_code": "HT0000" },
+            { "name": "Dallier", "postal_code": "HT0000" },
+            { "name": "Desormeau", "postal_code": "HT0000" },
+            { "name": "Petite Rivière", "postal_code": "HT0000" },
+            { "name": "Baliverne", "postal_code": "HT0000" }
+        ]
+    },
+]

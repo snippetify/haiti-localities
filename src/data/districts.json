@@ -1,0 +1,94 @@
+[
+    {
+        "county": "Artibonite",
+        "districts": [
+            { "name": "Dessalines" },
+            { "name": "Gonaïves" },
+            { "name": "Gros Morne" },
+            { "name": "Marmelade" },
+            { "name": "Saint Marc" }
+        ]
+    },
+    {
+        "county": "Centre",
+        "districts": [
+            { "name": "Cerca la Source" },
+            { "name": "Hinche" },
+            { "name": "Lascahobas" },
+            { "name": "Mirebalais" }
+        ]
+    },
+    {
+        "county": "Grand'Anse",
+        "districts": [
+            { "name": "Anse d'Hainault" },
+            { "name": "Corail" },
+            { "name": "Jérémie" }
+        ]
+    },
+    {
+        "county": "Nippes",
+        "districts": [
+            { "name": "Anse à Veau" },
+            { "name": "Baradères" },
+            { "name": "Miragoâne" }
+        ]
+    },
+    {
+        "county": "Nord",
+        "districts": [
+            { "name": "Acul du Nord" },
+            { "name": "Borgne" },
+            { "name": "Cap Haïtien" },
+            { "name": "Grande Rivière du Nord" },
+            { "name": "Limbé" },
+            { "name": "Plaisance" },
+            { "name": "Saint Raphaël" }
+        ]
+    },
+    {
+        "county": "Nord Est",
+        "districts": [
+            { "name": "Fort Liberté" },
+            { "name": "Ouanaminthe" },
+            { "name": "Trou du Nord" },
+            { "name": "Vallières" }
+        ]
+    },
+    {
+        "county": "Nord Ouest",
+        "districts": [
+            { "name": "Môle Saint Nicolas" },
+            { "name": "Port de Paix" },
+            { "name": "Saint Louis du Nord" }
+        ]
+    },
+    {
+        "county": "Ouest",
+        "districts": [
+            { "name": "Arcahaie" },
+            { "name": "Croix des Bouquets" },
+            { "name": "Gonâve", "islet": true },
+            { "name": "Léogâne" },
+            { "name": "Port au Prince" }
+        ]
+    },
+    {
+        "county": "Sud Est",
+        "districts": [
+            { "name": "Bainet" },
+            { "name": "Belle Anse" },
+            { "name": "Jacmel" }
+        ]
+    },
+    {
+        "county": "Sud",
+        "districts": [
+            { "name": "Aquin" },
+            { "name": "Les Cayes" },
+            { "name": "Chardonnières" },
+            { "name": "Côteaux" },
+            { "name": "Port Salut" }
+        ]
+    }
+]

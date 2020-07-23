@@ -1,0 +1,92 @@
+[
+    {
+        "map_id": 1,
+        "area": 4987,
+        "density": 350,
+        "region": "Centre",
+        "name": "Artibonite",
+        "capital": "Gonaïves",
+        "population": 1727524
+    },
+    {
+        "map_id": 2,
+        "area": 3487,
+        "density": 210,
+        "region": "Centre",
+        "name": "Centre",
+        "capital": "Hinche",
+        "population": 746236
+    },
+    {
+        "map_id": 3,
+        "area": 1.912,
+        "density": 240,
+        "region": "Sud",
+        "name": "Grand'Anse",
+        "capital": "Jérémie",
+        "population": 468301
+    },
+    {
+        "map_id": 4,
+        "area": 1268,
+        "density": 270,
+        "region": "Sud",
+        "name": "Nippes",
+        "capital": "Miragoâne",
+        "population": 342525
+    },
+    {
+        "map_id": 5,
+        "area": 2115,
+        "density": 500,
+        "region": "Nord",
+        "name": "Nord",
+        "capital": "Cap Haïtien",
+        "population": 1067177
+    },
+    {
+        "map_id": 6,
+        "area": 1623,
+        "density": 240,
+        "region": "Nord",
+        "name": "Nord Est",
+        "capital": "Fort Liberté",
+        "population": 393967
+    },
+    {
+        "map_id": 7,
+        "area": 2103,
+        "density": 350,
+        "region": "Nord",
+        "name": "Nord Ouest",
+        "capital": "Port de Paix",
+        "population": 728807
+    },
+    {
+        "map_id": 8,
+        "area": 4983,
+        "density": 810,
+        "region": "Ouest",
+        "name": "Ouest",
+        "capital": "Port au Prince",
+        "population": 4029705
+    },
+    {
+        "map_id": 9,
+        "area": 2654,
+        "density": 290,
+        "region": "Sud",
+        "name": "Sud",
+        "capital": "Les Cayes",
+        "population": 774976
+    },
+    {
+        "map_id": 10,
+        "area": 2034,
+        "density": 310,
+        "region": "Sud",
+        "name": "Sud Est",
+        "capital": "Jacmel",
+        "population": 632601
+    }
+]
