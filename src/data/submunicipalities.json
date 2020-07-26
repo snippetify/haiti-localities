@@ -9,11 +9,11 @@
         "municipality": "Dessalines",
         "submunicipalities": [
             { "name": "Villard", "aliases": [], "postal_code": "HT0000" },
-            { "name": "Fosse Naboth OU Duvallon", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Fosse Naboth", "aliases": ["Duvallon"], "postal_code": "HT0000" },
             { "name": "Ogé", "aliases": [], "postal_code": "HT0000" },
             { "name": "Poste Pierrot", "aliases": [], "postal_code": "HT0000" },
-            { "name": "Fiéfé Petit Cahos OU", "aliases": [], "postal_code": "HT0000" },
-            { "name": "ll Croix òû Grand Cahos", "aliases": [], "postal_code": "HT0000" }
+            { "name": "Fiéfé Petit Cahos", "aliases": [], "postal_code": "HT0000" },
+            { "name": "ll Croix", "aliases": ["Grand Cahos"], "postal_code": "HT0000" }
         ]
     },
     {
@@ -37,7 +37,7 @@
         "municipality": "Ennery",
         "submunicipalities": [
             { "name": "Savane Carrée", "aliases": [], "postal_code": "HT0000" },
-            { "name": "Reine Passe Bas d'Ennery òû", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Reine Passe Bas d'Ennery", "aliases": [], "postal_code": "HT0000" },
             { "name": "Chemin Neuf", "aliases": [], "postal_code": "HT0000" },
             { "name": "Puilboreau", "aliases": [], "postal_code": "HT0000" }
         ]
@@ -91,7 +91,7 @@
         "municipality": "Marmelade",
         "submunicipalities": [
             { "name": "Crête à Pins", "aliases": [], "postal_code": "HT0000" },
-            { "name": "Bassin OU Billier", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bassin", "aliases": ["Billier"], "postal_code": "HT0000" },
             { "name": "Platon", "aliases": [], "postal_code": "HT0000" }
         ]
     },
@@ -201,7 +201,7 @@
     {
         "municipality": "Savanette",
         "submunicipalities": [
-            { "name": "Savanette (Colombier)", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Savanette", "aliases": ["Colombier"], "postal_code": "HT0000" },
             { "name": "La Haye", "aliases": [], "postal_code": "HT0000" }
         ]
     },
@@ -253,7 +253,7 @@
     {
         "municipality": "Les Irois",
         "submunicipalities": [
-            { "name": "Matador (Jorgue)", "aliases": [], "postal_code": "HT0000" }
+            { "name": "Matador", "aliases": ["Jorgue"], "postal_code": "HT0000" }
         ]
     },
     {
@@ -1105,7 +1105,7 @@
         ]
     },
     {
-        "municipality": "Cavaellon",
+        "municipality": "Cavaillon",
         "submunicipalities": [
             { "name": "Boileau", "aliases": [], "postal_code": "HT0000" },
             { "name": "Martineau", "aliases": [], "postal_code": "HT0000" },

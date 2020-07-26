@@ -1,20 +1,23 @@
-import normalize from './normalize'
-import counties from './data/counties.json'
+const normalize = require('./utils').normalize
 
 // Departement
 class County {
+    constructor (data) {
+        this.counties = data
+    }
+
     has (name) {
-        return counties.map(v => v.name.toLowerCase()).includes(normalize(name))
+        return this.counties.map(v => normalize(v.name)).includes(normalize(name))
     }
 
     get (name) {
-        if (!this.has(name)) return undefined
-        return counties.find(v => v.name.toLowerCase() === normalize(name))
+        if (!this.has(name)) return
+        return this.counties.find(v => normalize(v.name) === normalize(name))
     }
 
     getAll () {
-        return counties
+        return this.counties
     }
 }
 
-export default new County()
+module.exports = new County(require('./data/counties.json'))

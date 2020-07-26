@@ -68,7 +68,7 @@
         "districts": [
             { "name": "Arcahaie", "aliases": [] },
             { "name": "Croix des Bouquets", "aliases": [] },
-            { "name": "Gonâve", "islet": true },
+            { "name": "Gonâve", "aliases": [], "islet": true },
             { "name": "Léogâne", "aliases": [] },
             { "name": "Port au Prince", "aliases": [] }
         ]

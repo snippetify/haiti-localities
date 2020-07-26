@@ -1,29 +1,43 @@
-import normalize from './normalize'
-import districts from './data/districts.json'
+const normalize = require('./utils').normalize
 
 // Arrondissement
 class District {
+    constructor (data) {
+        this.districts = data
+    }
+
     has (name) {
-        return districts.filter(v => v.districts.map(w => w.name.toLowerCase()).includes(normalize(name))).length > 0
+        return this.districts.filter(v => this.findItem(v.districts, name)).length > 0
     }
 
     hasCounty (name) {
-        return districts.map(v => v.county.toLowerCase()).includes(normalize(name))
+        return this.districts.map(v => normalize(v.county)).includes(normalize(name))
     }
 
     getByCounty (name) {
-        if (!this.hasCounty(name)) return undefined
-        return districts.find(v => v.county.toLowerCase() === normalize(name)).districts
+        if (!this.hasCounty(name)) return []
+        return this.districts
+            .find(v => normalize(v.county) === normalize(name))
+            .districts
+            .map(v => ({ county: name, ...v }))
     }
 
     get (name) {
-        if (!this.has(name)) return undefined
-        return districts.filter(v => v.districts.find(w => w.name.toLowerCase() === normalize(name)))
+        if (!this.has(name)) return
+        const item = this.districts.find(v => this.findItem(v.districts, name))
+        return {
+            county: item.county,
+            ...this.findItem(item.districts, name)
+        }
     }
 
     getAll () {
-        return districts
+        return this.districts.flatMap(v => v.districts.map(w => ({ county: v.county, ...w })))
+    }
+
+    findItem (items, name) {
+        return items.find(v => normalize(v.name) === normalize(name) || v.aliases.map(a => normalize(a)).includes(normalize(name)))
     }
 }
 
-export default new District()
+module.exports = new District(require('./data/districts.json'))
