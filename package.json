@@ -1,8 +1,8 @@
 {
   "name": "@snippetify/haiti-localities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List of localities in Haiti",
-  "main": "dist/haiti-localities.js",
+  "main": "index.js",
   "module": "index.js",
   "scripts": {
     "build": "webpack",
