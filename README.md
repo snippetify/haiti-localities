@@ -26,29 +26,29 @@ Snippetify is a community snippets warehouse but also a suite of tools that allo
 Via [npm](https://www.npmjs.com/):
 
 ```bash
-npm install haiti-localities
+npm install @snippetify/haiti-localities
 ```
 
 In a browser:
 
 ```html
-<script src="haiti-localities.js"></script>
+<script src="dist/haiti-localities.js"></script>
 ```
 
 In [Node.js](https://nodejs.org/):
 
 ```js
-const htLocalities = require('haiti-localities');
+const haitiLocalities = require("@snippetify/haiti-localities")
 ```
 
 ## API
 
-### `htLocalities.getCounties()`
+### `haitiLocalities.getCounties()`
 
 Return an array of counties(départements)
 
 ```javascript
-const items = htLocalities.getCounties()
+const items = haitiLocalities.getCounties()
 console.log(JSON.stringify(items))
 // [
 //     {
@@ -73,12 +73,12 @@ console.log(JSON.stringify(items))
 // ]
 ```
 
-### `htLocalities.getDistricts()`
+### `haitiLocalities.getDistricts()`
 
 Return an array of districts(arrondissements)
 
 ```javascript
-const items = htLocalities.getDistricts()
+const items = haitiLocalities.getDistricts()
 console.log(JSON.stringify(items))
 // [
 //     { county: 'Artibonite', name: 'Dessalines', aliases: [] },
@@ -88,16 +88,16 @@ console.log(JSON.stringify(items))
 // ]
 ```
 
-### `htLocalities.getDistrictsByCounty(string)`
+### `haitiLocalities.getDistrictsByCounty(string)`
 
 Return an array of districts(arrondissements) for a county.
 
-### `htLocalities.getMunicipalities()`
+### `haitiLocalities.getMunicipalities()`
 
 Return an array of municipalities(communes)
 
 ```javascript
-const items = htLocalities.getMunicipalities()
+const items = haitiLocalities.getMunicipalities()
 console.log(JSON.stringify(items))
 // [
 //     {
@@ -116,20 +116,20 @@ console.log(JSON.stringify(items))
 // ]
 ```
 
-### `htLocalities.getMunicipalitiesByDistrict(string)`
+### `haitiLocalities.getMunicipalitiesByDistrict(string)`
 
 Return an array of municipalities(communes) for a district.
 
-### `htLocalities.getMunicipalitiesByCounty(string)`
+### `haitiLocalities.getMunicipalitiesByCounty(string)`
 
 Return an array of municipalities(communes) for a county.
 
-### `htLocalities.getSubMunicipalities()`
+### `haitiLocalities.getSubMunicipalities()`
 
 Return an array of submunicipalities(sections communales)
 
 ```javascript
-const items = htLocalities.getSubMunicipalities()
+const items = haitiLocalities.getSubMunicipalities()
 console.log(JSON.stringify(items))
 // [
 //     {
@@ -152,19 +152,19 @@ console.log(JSON.stringify(items))
 // ]
 ```
 
-### `htLocalities.getSubMunicipalitiesByMunicipality(string)`
+### `haitiLocalities.getSubMunicipalitiesByMunicipality(string)`
 
 Return an array of submunicipalities(sections communales) for a municipality.
 
-### `htLocalities.getSubMunicipalitiesByDistrict(string)`
+### `haitiLocalities.getSubMunicipalitiesByDistrict(string)`
 
 Return an array of submunicipalities(sections communales) for a district.
 
-### `htLocalities.getSubMunicipalitiesByCounty(string)`
+### `haitiLocalities.getSubMunicipalitiesByCounty(string)`
 
 Return an array of submunicipalities(sections communales) for a county.
 
-### `htLocalities.find(string)`
+### `haitiLocalities.find(string)`
 
 Return any county, district, municipality or submunicipality that matches the string.
 

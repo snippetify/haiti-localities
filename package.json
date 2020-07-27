@@ -1,5 +1,5 @@
 {
-  "name": "haiti-localities",
+  "name": "@snippetify/haiti-localities",
   "version": "1.0.0",
   "description": "List of localities in Haiti",
   "main": "dist/haiti-localities.js",
@@ -21,7 +21,15 @@
     "section communale"
   ],
   "license": "MIT",
-  "author": "Evens Pierre",
+  "author": "Evens Pierre <pierrevensy@gmail.com> (https://snippetify.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snippetify/haiti-localities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/snippetify/haiti-localities/issues"
+  },
+  "homepage": "https://github.com/snippetify/haiti-localities",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",

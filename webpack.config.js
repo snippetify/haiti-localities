@@ -10,7 +10,7 @@ module.exports = {
     ],
     output: {
         libraryTarget: 'umd',
-        library: 'htLocalities',
+        library: 'haitiLocalities',
         filename: 'haiti-localities.js',
         path: path.resolve(__dirname, 'dist')
     },
