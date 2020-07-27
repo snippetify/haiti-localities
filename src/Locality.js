@@ -131,9 +131,12 @@ class Locality {
     }
 }
 
-module.exports = new Locality(
+const locality = new Locality(
     require('./County'),
     require('./District'),
     require('./Municipality'),
     require('./SubMunicipality')
 )
+
+module.exports = locality
+module.exports.default = locality

@@ -4,6 +4,7 @@
   "description": "List of localities in Haiti",
   "main": "index.js",
   "module": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "build": "webpack",
     "test": "mocha tests/**/*.js"
