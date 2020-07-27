@@ -29,16 +29,36 @@ Via [npm](https://www.npmjs.com/):
 npm install @snippetify/haiti-localities
 ```
 
-In a browser:
+Via [yarn](https://yarnpkg.com/):
 
-```html
-<script src="node_modules/@snippetify/haiti-localities/dist/haiti-localities.js"></script>
+```bash
+yarn add @snippetify/haiti-localities
 ```
 
-In [Node.js](https://nodejs.org/):
+**In a browser via a script tag:**
+
+```html
+<script src="haiti-localities.js"></script>
+```
+
+**CommonJS module require:**
 
 ```js
 const haitiLocalities = require("@snippetify/haiti-localities")
+```
+
+**ES2015 module import:**
+
+```js
+import haitiLocalities from "@snippetify/haiti-localities"
+```
+
+**AMD module require:**
+
+```js
+require(['haitiLocalities'], function (haitiLocalities) {
+  // ...
+});
 ```
 
 ## API
