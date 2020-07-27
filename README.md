@@ -32,7 +32,7 @@ npm install @snippetify/haiti-localities
 In a browser:
 
 ```html
-<script src="dist/haiti-localities.js"></script>
+<script src="node_modules/@snippetify/haiti-localities/dist/haiti-localities.js"></script>
 ```
 
 In [Node.js](https://nodejs.org/):
