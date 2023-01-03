@@ -481,7 +481,7 @@
     {
         "municipality": "Cap Haïtien",
         "submunicipalities": [
-            { "name": "Du bande Nord", "aliases": [], "postal_code": "HT0000" },
+            { "name": "Bande du Nord", "aliases": [], "postal_code": "HT0000" },
             { "name": "Haut du Cap", "aliases": [], "postal_code": "HT0000" },
             { "name": "Petit Anse", "aliases": [], "postal_code": "HT0000" }
         ]
